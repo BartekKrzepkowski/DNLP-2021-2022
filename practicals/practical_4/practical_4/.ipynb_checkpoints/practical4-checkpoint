@@ -1,0 +1,8 @@
+Section 2
+
+a) Jeżeli c ~ v_j, to /alpha_j ~ 1, oraz alpha_i ~ 0, dla i \neq j. Tzn iloczyn skalarny między k_j oraz q musi być o wiele większy niż iloczyn skalarny między k_i oraz q, dla i \neq j.
+
+b)
+
+
+Linformer opiera się za pomyśle sprowadzenia projekcji klucza i wartości do mniejszego wymiaru za pomocą macierzy mniejszego rzędu. Autorzy sugerują, że macierz mapowanego kontekstu jest niskiego rzędu, więc możliwe jest modyfikacja tej macierzy by zmniejszyć liczbe operacji, oraz pamięci, potrzebnych do obliczenia wyniku z każdej poszczególnej głowy atencji, z kwadratowej, na liniową, względem długości rozpatrywanej sekwencji.
